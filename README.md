@@ -6,7 +6,7 @@ The following settings are set:
 
 | Rule                     | Value  |
 | -------------------------|:------:|
-| SSL                      | Strict |
+| SSL                      | Full   |
 | Security Level           | High   |
 | Automatic Https Rewrites | On     |
 | Always Use Https         | On     |
